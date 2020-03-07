@@ -1,0 +1,84 @@
+h1{
+    color: #9399ff;
+    font-family: "Arial Black"
+   
+}
+
+div{
+    border-radius: 10px;
+}
+
+body{
+    background-image: url(image/14254.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+p{
+    color:#ff80b0;
+    font-family: "Arial Black";
+    font-size: large;
+}
+
+#profile-pic{
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+}
+#france-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#uk-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+#italy-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+#spain-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#essec-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+#facebook-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#instagram-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#linkedin-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+ul{
+    text-align: left;
+    font-size: large;
+    color: #ff80b0;
+    font-family: "Arial Black"
+}
+
+#little-title{
+    font-size: 34px
+}
